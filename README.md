@@ -1,2 +1,4 @@
 # Animated-Product-Card
-Playing using HTML,CSS,JS
+Animated Product Card Using HTML CSS &amp; JavaScript
+
+![Screenshot](Miniatura.png)
