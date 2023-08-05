@@ -1,2 +1,2 @@
-# Animated-Product-Card
-Animated Product Card Using HTML CSS &amp; JavaScript
+
+Animated Product Card Using HTML,CSS and JS
